@@ -1,0 +1,11 @@
+body {
+  background-color: #FEC83C;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column; }
+  body header {
+    display: flex;
+    justify-content: center; }
+    body header h2 {
+      text-transform: uppercase; }

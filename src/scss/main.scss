@@ -1,0 +1,21 @@
+/* variables */
+$mustardPrimary: #FEC83C;
+
+
+/* styles */
+body {
+  background-color: $mustardPrimary;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column;
+  header {
+    display: flex;
+    justify-content: center;
+    h2 {
+      text-transform: uppercase;
+    }
+  }
+}
+
+/* media queries */
